@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://competitor-pulse.com/sitemap.xml
